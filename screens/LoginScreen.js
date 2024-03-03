@@ -53,8 +53,8 @@ const LoginScreen = () => {
 
         <View style={{ marginTop: 50 }}>
           <View>
-            <Text style={{ fontSize: 18, fontWeight: "600", color: "gray", }}>
-              E-mail
+          <Text style={{ marginLeft:95, fontSize: 18, fontWeight: "600", color: "gray" }}>
+              E-Mail
             </Text>
 
             <TextInput
@@ -74,7 +74,7 @@ const LoginScreen = () => {
           </View>
 
           <View style={{ marginTop: 15 }}>
-            <Text style={{ fontSize: 18, fontWeight: "600", color: "gray" }}>
+            <Text style={{marginLeft:95, fontSize: 18, fontWeight: "600", color: "gray" }}>
               Şifre
             </Text>
 
